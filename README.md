@@ -1,9 +1,11 @@
 Survive Altis
 ========
-A modification for **Arma 3**.  
+A new gamemode for **Arma 3**.  
   
 ![survive](http://arma3.cc/survive.jpg "survive")
   
+Online sandbox survival with persistent database.
+  
 Wiki
 ----------
-https://github.com/sxp2high/survive-altis/wiki
+Please refer to the wiki for more details: https://github.com/sxp2high/survive-altis/wiki
