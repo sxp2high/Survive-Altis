@@ -6,9 +6,13 @@ A new gamemode for [Arma 3](http://arma3.com).
   
 Presistent multiplayer sandbox survival.
   
-Milestones
+Index
 ----
-[0.7.0](https://github.com/sxp2high/survive-altis/issues/milestones)
+1. https://github.com/sxp2high/survive-altis#Milestones
+  
+[Milestones](#Milestones)
+----
+* [0.7.0](https://github.com/sxp2high/survive-altis/issues/milestones)
   
 Wiki
 ----
