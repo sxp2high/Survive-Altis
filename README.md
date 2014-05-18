@@ -1,3 +1,6 @@
+[example][id]
+[id]: http://example.com/  "Title"
+
 Survive Altis
 =============
 A new gamemode for **Arma 3** (http://www.arma3.com).
