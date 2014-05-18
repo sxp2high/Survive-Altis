@@ -1,9 +1,9 @@
-[example][id]
-[id]: http://example.com/  "Title"
+[Arma 3][arma3com]
+
 
 Survive Altis
 =============
-A new gamemode for **Arma 3** (http://www.arma3.com).
+A new gamemode for **[arma3com]: http://example.com/  "Arma 3"**.
   
 ![survive](http://arma3.cc/survive.jpg "survive")
   
