@@ -1,10 +1,6 @@
-[Arma 3][id]
-[0.7.0][id]
-
-
 Survive Altis
 =============
-A new gamemode for **[id]: http://arma3.com  "Arma 3"**.
+A new gamemode for **[Arma 3](http://arma3.com)**.
   
 ![survive](http://arma3.cc/survive.jpg "survive")
   
