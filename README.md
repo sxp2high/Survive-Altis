@@ -1,9 +1,10 @@
-[Arma 3][arma3com]
+[Arma 3][id]
+[0.7.0][id]
 
 
 Survive Altis
 =============
-A new gamemode for **[arma3com]: http://example.com/  "Arma 3"**.
+A new gamemode for **[id]: http://arma3.com  "Arma 3"**.
   
 ![survive](http://arma3.cc/survive.jpg "survive")
   
@@ -11,7 +12,7 @@ Online sandbox survival with persistent database.
   
 Milestones
 ----
-0.7.0 (https://github.com/sxp2high/survive-altis/issues/milestones)
+https://github.com/sxp2high/survive-altis/issues/milestones  "0.7.0"
   
 Wiki
 ----
