@@ -8,12 +8,12 @@ Presistent multiplayer sandbox survival.
   
 Index
 ----
-1. Milestones(https://github.com/sxp2high/survive-altis#Milestones)
-2. Wiki(https://github.com/sxp2high/survive-altis#Wiki)
+1.  [Milestones](https://github.com/sxp2high/survive-altis#milestones)
+2.  [Wiki](https://github.com/sxp2high/survive-altis#wiki)
   
 Milestones
 ----
-* [0.7.0](https://github.com/sxp2high/survive-altis/issues/milestones)
+*   [0.7.0](https://github.com/sxp2high/survive-altis/issues/milestones)
   
 Wiki
 ----
