@@ -1,6 +1,6 @@
 Survive Altis
 ========
-A new gamemode for **Arma 3**.  
+A new gamemode for (http://www.arma3.com "Arma 3").  
   
 ![survive](http://arma3.cc/survive.jpg "survive")
   
